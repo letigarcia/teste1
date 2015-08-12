@@ -4,6 +4,7 @@ package exsrevisão;
 public class Ex3 {
 
     public Ex3() {
+        
     }
 
 }
